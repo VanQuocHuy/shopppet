@@ -1,0 +1,20 @@
+{
+  "informationdk": [
+    {
+      "fullname": "Lê Văn Quốc Huy",
+      "email": "levanquochuy06022001@gmail.com",
+      "password": "123456",
+      "password_confirmation": "123456",
+      "province": "qtri",
+      "id": 1
+    },
+    {
+      "fullname": "trần khánh linh",
+      "email": "trankhanhlinh@gmail.com",
+      "password": "khanhlinh12345",
+      "password_confirmation": "khanhlinh12345",
+      "province": "dn",
+      "id": 2
+    }
+  ]
+}
